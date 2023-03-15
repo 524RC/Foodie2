@@ -1,0 +1,23 @@
+
+body, html {
+    background-color:rgb(255, 190, 110)!important; 
+}
+.brownRice{
+  padding:10px;
+  margin:10px;
+  width:1000px;
+  height:700px;
+}
+h1{
+  font-family:Fantasy;
+}
+li{
+  font-family:Fantasy;
+  font-size:25px;
+}
+.water{
+  padding:10px;
+  margin:10px;
+  width:1000px;
+  height:700px;
+}
